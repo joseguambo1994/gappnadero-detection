@@ -13,7 +13,7 @@ function App() {
     (<View className="App">
     <Card>
       <Image src={logo} className="App-logo" alt="logo" />
-      <Heading level={1}>We now have Auth!</Heading>
+      <Heading level={1}>We now have Auth for Gappnadero Detection v1.0</Heading>
     </Card>
     <Button onClick={()=> console.log('On Press')}>Sign Out</Button>
   </View>)
